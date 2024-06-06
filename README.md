@@ -9,6 +9,7 @@ The dataset used in this analysis the Dataset contains a one primary table.
 And also check the order status.
 Key Columns in the Dataset:
 •	Index:  index id from 1 to 128974. 
+
 •	Order ID: order id of the products.
 •	Date:  date of ordered categories.
 •	Status: the data showen the products status is shipped or not.
