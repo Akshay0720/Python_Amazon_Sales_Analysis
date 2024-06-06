@@ -1,6 +1,6 @@
 # Python_Amazon_Sales_Analysis
 
-**Introduction :**
+****Introduction :************
 This  is a amzon sales analysis project. In this project I was collected the Amazon sales Data From Kaggle.com website. This website is popular for the Data Science Datasets. this project is help’s decision makers to take a decision for the company. In this NoteBook, we will Explore the Amazon Sales Dataset to uncover insights or hidden patterns.
 **
 
