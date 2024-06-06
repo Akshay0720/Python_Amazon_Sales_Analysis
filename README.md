@@ -1,24 +1,25 @@
 # Python_Amazon_Sales_Analysis
 
-Introduction :
+**Introduction :**
 This  is a amzon sales analysis project. In this project I was collected the Amazon sales Data From Kaggle.com website. This website is popular for the Data Science Datasets. this project is help’s decision makers to take a decision for the company. In this NoteBook, we will Explore the Amazon Sales Dataset to uncover insights or hidden patterns.
-
-Dataset Description:
+**
+**Dataset Description:****
 The dataset used in this analysis the Dataset contains a one primary table.
-•	This table contains detailed information about the sales means the which category sales most,Status of the order, and in this data there are different types of category are avilabe like T-Shirts, Blazzer and more.
+This table contains detailed information about the sales means the which category sales most,Status of the order, 
+and in this data there are different types of category are avilabe like T-Shirts, Blazzer and more.
 And also check the order status.
-Key Columns in the Dataset:
-•	Index:  index id from 1 to 128974. 
 
-•	Order ID: order id of the products.
-•	Date:  date of ordered categories.
-•	Status: the data showen the products status is shipped or not.
-•	FulFillment: check the where merchant or Amazon.
-•	Sales Channel: the name of the different sales channel.
-•	Ship-service Level: check Standred or Expedited.
-•	Category: different types of categories and Prodects.
-•	Size: the size of the different Categories.
-•	Courier Status: information of the product means delivered or Not.
+**Key Columns in the Dataset:**
+Index:  index id from 1 to 128974. 
+Order ID: order id of the products.
+Date:  date of ordered categories.
+Status: the data showen the products status is shipped or not.
+FulFillment: check the where merchant or Amazon.
+Sales Channel: the name of the different sales channel.
+Ship-service Level: check Standred or Expedited.
+Category: different types of categories and Prodects.
+Size: the size of the different Categories.
+Courier Status: information of the product means delivered or Not.
 •	Qty: total no.of.Quentity.
 •	Currency: the currency is showen in ‘INR’ form.
 •	Amount:the price of the category
